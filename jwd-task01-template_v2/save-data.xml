@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save-data.xml>
+  <laptop id="1">
+    <battery-capacity>1</battery-capacity>
+    <os>windows</os>
+    <memory-rom>4000</memory-rom>
+    <system-memory>1000</system-memory>
+    <cpu>1.2</cpu>
+    <display-inch>18</display-inch>
+  </laptop>
+  <laptop id="3">
+    <battery-capacity>3</battery-capacity>
+    <os>windows</os>
+    <memory-rom>8000</memory-rom>
+    <system-memory>1500</system-memory>
+    <cpu>3.2</cpu>
+    <display-inch>22</display-inch>
+  </laptop>
+</save-data.xml>
